@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /docs/入门指引/快速开始
+      link: /docs/关于/语雀示例文章
     - theme: brand
       text: 短路由示例
       link: /docs-shorturl/ssuhngw0yb3dgkkg

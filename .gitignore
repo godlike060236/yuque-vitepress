@@ -129,6 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 .idea
-.elog.env
 docs/.vitepress/dist
 docs/.vitepress/cache
