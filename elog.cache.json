@@ -3,13 +3,13 @@
     {
       "id": 169816016,
       "doc_id": "vz1m779w735tw4f1",
-      "updated": 1715833010000,
+      "updated": 1715854111000,
       "properties": {
         "title": "简介",
         "urlname": "vz1m779w735tw4f1",
         "date": "2024-05-15 23:46:39",
-        "updated": "2024-05-16 12:16:50",
-        "description": "个人搭建的Plex一站式媒体服务器，目前实现的功能是通过求片订阅的方式，后台自动搜索对应的资源下载到Plex上，实现半自动观影。效果截图"
+        "updated": "2024-05-16 18:08:31",
+        "description": "简介个人搭建的一站式媒体服务器，目前实现的功能是通过求片订阅的方式，后台自动搜索对应的资源下载到媒体服务器上，实现半自动观影。服务架构媒体服务：Plex、Emby媒体管理：MoviePilot用户管理：jfa-go订阅管理：AutoBangumi，Overseerr资源下载：qBittorre..."
       },
       "catalog": [
         {
@@ -24,27 +24,65 @@
     {
       "id": 169817904,
       "doc_id": "ogf1st6hr68n1uya",
-      "updated": 1715843555000,
+      "updated": 1715853406000,
       "properties": {
         "title": "账号相关",
         "urlname": "ogf1st6hr68n1uya",
         "date": "2024-05-16 00:42:37",
-        "updated": "2024-05-16 15:12:35",
-        "description": "部分步骤可能需要科学上网，全过程建议使用电脑浏览器Plex注册Plex账号Plex官网自行注册即可，国内可能存在官网无法打开的情况（请自行科学上网）。账号设置注册账号后，在网站登录，点击右上角头像，可以进行账号相关的设置必要：PIN设置：在 “Plex Home”中设置PIN码。作用是防止别人..."
+        "updated": "2024-05-16 17:56:46",
+        "description": "账号相关部分步骤可能需要科学上网，全过程建议使用电脑浏览器两个媒体端全部支持，自行选择即可Plex（推荐）注册Plex账号Plex官网自行注册即可，国内可能存在官网无法打开的情况（请自行科学上网）。账号设置注册账号后，在网站登录，点击右上角头像，可以进行账号相关的设置必要：PIN设置：在 “P..."
       },
       "catalog": [
         {
           "title": "入门",
           "doc_id": "ogf1st6hr68n1uya"
-        },
-        {
-          "title": "前置准备工作",
-          "doc_id": "ogf1st6hr68n1uya"
         }
       ],
       "realName": "账号相关",
-      "relativePath": "\\入门\\前置准备工作\\账号相关.md",
-      "docPath": "docs\\docs\\入门\\前置准备工作"
+      "relativePath": "\\入门\\账号相关.md",
+      "docPath": "docs\\docs\\入门"
+    },
+    {
+      "id": 169938695,
+      "doc_id": "ohxcmlxw1iv27hse",
+      "updated": 1715853186000,
+      "properties": {
+        "title": "软件设置",
+        "urlname": "ohxcmlxw1iv27hse",
+        "date": "2024-05-16 17:52:51",
+        "updated": "2024-05-16 17:53:06",
+        "description": "软件设置"
+      },
+      "catalog": [
+        {
+          "title": "入门",
+          "doc_id": "ohxcmlxw1iv27hse"
+        }
+      ],
+      "realName": "软件设置",
+      "relativePath": "\\入门\\软件设置.md",
+      "docPath": "docs\\docs\\入门"
+    },
+    {
+      "id": 169913063,
+      "doc_id": "zgg0xat1o2r84goa",
+      "updated": 1715854121000,
+      "properties": {
+        "title": "软件下载",
+        "urlname": "zgg0xat1o2r84goa",
+        "date": "2024-05-16 15:18:46",
+        "updated": "2024-05-16 18:08:41",
+        "description": "软件下载按照自身拥有的平台选择对应的客户端即可。平台客户端评分下载方式安卓Plex⭐️⭐️⭐️⭐️⭐️官网，AListYamby⭐️⭐️⭐️⭐️⭐️Emby（小雅）⭐️⭐️⭐️⭐Emby（官方）⭐️⭐️⭐️苹果Plex⭐️⭐️⭐️⭐️⭐FileBall⭐️⭐️⭐️⭐️⭐Infuse⭐️⭐️⭐E..."
+      },
+      "catalog": [
+        {
+          "title": "入门",
+          "doc_id": "zgg0xat1o2r84goa"
+        }
+      ],
+      "realName": "软件下载",
+      "relativePath": "\\入门\\软件下载.md",
+      "docPath": "docs\\docs\\入门"
     }
   ],
   "catalog": [
@@ -85,25 +123,10 @@
       "url": "",
       "prev_uuid": "cZ75WJyXpJ7FfA6X",
       "sibling_uuid": "IHb9t2qJhbBcPVhC",
-      "child_uuid": "E94GOUQm4GdeV45B",
+      "child_uuid": "Ypyq3qyUPZqsCicZ",
       "parent_uuid": "",
       "doc_id": "",
       "level": 0,
-      "id": "",
-      "open_window": 1,
-      "visible": 1
-    },
-    {
-      "type": "TITLE",
-      "title": "前置准备工作",
-      "uuid": "E94GOUQm4GdeV45B",
-      "url": "",
-      "prev_uuid": "HOl_LBw-a5spnwDl",
-      "sibling_uuid": "",
-      "child_uuid": "Ypyq3qyUPZqsCicZ",
-      "parent_uuid": "HOl_LBw-a5spnwDl",
-      "doc_id": "",
-      "level": 1,
       "id": "",
       "open_window": 1,
       "visible": 1
@@ -113,13 +136,43 @@
       "title": "账号相关",
       "uuid": "Ypyq3qyUPZqsCicZ",
       "url": "ogf1st6hr68n1uya",
-      "prev_uuid": "E94GOUQm4GdeV45B",
+      "prev_uuid": "HOl_LBw-a5spnwDl",
+      "sibling_uuid": "IGLoeOjUPt3kse4o",
+      "child_uuid": "",
+      "parent_uuid": "HOl_LBw-a5spnwDl",
+      "doc_id": 169817904,
+      "level": 1,
+      "id": 169817904,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "软件下载",
+      "uuid": "IGLoeOjUPt3kse4o",
+      "url": "zgg0xat1o2r84goa",
+      "prev_uuid": "Ypyq3qyUPZqsCicZ",
+      "sibling_uuid": "Dx6uJDI580tvgQLn",
+      "child_uuid": "",
+      "parent_uuid": "HOl_LBw-a5spnwDl",
+      "doc_id": 169913063,
+      "level": 1,
+      "id": 169913063,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "软件设置",
+      "uuid": "Dx6uJDI580tvgQLn",
+      "url": "ohxcmlxw1iv27hse",
+      "prev_uuid": "IGLoeOjUPt3kse4o",
       "sibling_uuid": "",
       "child_uuid": "",
-      "parent_uuid": "E94GOUQm4GdeV45B",
-      "doc_id": 169817904,
-      "level": 2,
-      "id": 169817904,
+      "parent_uuid": "HOl_LBw-a5spnwDl",
+      "doc_id": 169938695,
+      "level": 1,
+      "id": 169938695,
       "open_window": 1,
       "visible": 1
     },
