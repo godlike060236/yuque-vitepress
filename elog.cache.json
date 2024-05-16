@@ -3,12 +3,12 @@
     {
       "id": 169816016,
       "doc_id": "vz1m779w735tw4f1",
-      "updated": 1715854111000,
+      "updated": 1715874317000,
       "properties": {
         "title": "简介",
         "urlname": "vz1m779w735tw4f1",
         "date": "2024-05-15 23:46:39",
-        "updated": "2024-05-16 18:08:31",
+        "updated": "2024-05-16 23:45:17",
         "description": "简介个人搭建的一站式媒体服务器，目前实现的功能是通过求片订阅的方式，后台自动搜索对应的资源下载到媒体服务器上，实现半自动观影。服务架构媒体服务：Plex、Emby媒体管理：MoviePilot用户管理：jfa-go订阅管理：AutoBangumi，Overseerr资源下载：qBittorre..."
       },
       "catalog": [
@@ -24,12 +24,12 @@
     {
       "id": 169817904,
       "doc_id": "ogf1st6hr68n1uya",
-      "updated": 1715855086000,
+      "updated": 1715877695000,
       "properties": {
         "title": "账号相关",
         "urlname": "ogf1st6hr68n1uya",
         "date": "2024-05-16 00:42:37",
-        "updated": "2024-05-16 18:24:46",
+        "updated": "2024-05-17 00:41:35",
         "description": "账号相关部分步骤可能需要科学上网，全过程建议使用电脑浏览器两个媒体端全部支持，自行选择即可Plex（推荐）注册Plex账号Plex官网自行注册即可，国内可能存在官网无法打开的情况（请自行科学上网）。账号设置注册账号后，在网站登录，点击右上角头像，可以进行账号相关的设置必要：PIN设置：在 “P..."
       },
       "catalog": [
@@ -45,13 +45,14 @@
     {
       "id": 169938695,
       "doc_id": "ohxcmlxw1iv27hse",
-      "updated": 1715853186000,
+      "updated": 1715874184000,
       "properties": {
         "title": "软件设置",
         "urlname": "ohxcmlxw1iv27hse",
         "date": "2024-05-16 17:52:51",
-        "updated": "2024-05-16 17:53:06",
-        "description": "软件设置"
+        "updated": "2024-05-16 23:43:04",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/25942080/1715873633516-7c6f58bb-068f-4b4e-9bb8-027c6a009780.png",
+        "description": "软件设置按照自己对应的客服端查看即可  给出的截图中，圈住的设置务必保持一致  没有涉及到的选项，请自行探索，自行体验  通用设置在所有的 Plex 客户端 中，需要固定的来源有且仅有图中打钩的部分，其他选项全部关闭即可Plex 安卓端最后一张图的播放器设置：“设置”-> “高级”-> “播放..."
       },
       "catalog": [
         {
@@ -66,13 +67,13 @@
     {
       "id": 169913063,
       "doc_id": "zgg0xat1o2r84goa",
-      "updated": 1715854929000,
+      "updated": 1715870384000,
       "properties": {
         "title": "软件下载",
         "urlname": "zgg0xat1o2r84goa",
         "date": "2024-05-16 15:18:46",
-        "updated": "2024-05-16 18:22:09",
-        "description": "软件下载按照自身拥有的平台选择对应的客户端即可。下载链接Plex 官网 ：可能需要科学上网（全平台支持）  Emby 官网：可能需要科学上网（全平台支持）  AList：一般情况下软件不更新！！！（部分平台）  三方 （ApkPure）：安卓 听音乐专属Plexamp：全平台支持，Plex官网..."
+        "updated": "2024-05-16 22:39:44",
+        "description": "软件下载按照自身拥有的平台选择对应的客户端即可。   成功下载软件后，后续的登录，播放等的软件设置见软件设置客户端按照媒体服务器进行划分，黄色标注为推荐客户端EmbyYamby：安卓系，包括手机，安卓系电视Emby：全平台  FileBall：苹果系列，包括手机，电脑，Apple TVPlex..."
       },
       "catalog": [
         {
@@ -83,6 +84,22 @@
       "realName": "软件下载",
       "relativePath": "\\入门\\软件下载.md",
       "docPath": "docs\\docs\\入门"
+    },
+    {
+      "id": 169968786,
+      "doc_id": "ptzqxrngwakvqfp5",
+      "updated": 1715877692000,
+      "properties": {
+        "title": "工具箱",
+        "urlname": "ptzqxrngwakvqfp5",
+        "date": "2024-05-16 23:53:10",
+        "updated": "2024-05-17 00:41:32",
+        "description": "工具箱服务端配置信息Plex 服务端网址：https://plex.taikong.co端口：32400Emby 服务端网址：https://emby.taikong.co:8920端口：8920测速Speed-X ：测试你当前与服务器之间的连接速度    SpeedTest：测试你当前自身的..."
+      },
+      "catalog": [],
+      "realName": "工具箱",
+      "relativePath": "\\工具箱.md",
+      "docPath": "docs\\docs"
     }
   ],
   "catalog": [
@@ -182,12 +199,27 @@
       "uuid": "IHb9t2qJhbBcPVhC",
       "url": "",
       "prev_uuid": "HOl_LBw-a5spnwDl",
-      "sibling_uuid": "",
+      "sibling_uuid": "sAFLXTaCGEc22WMH",
       "child_uuid": "",
       "parent_uuid": "",
       "doc_id": "",
       "level": 0,
       "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "工具箱",
+      "uuid": "sAFLXTaCGEc22WMH",
+      "url": "ptzqxrngwakvqfp5",
+      "prev_uuid": "IHb9t2qJhbBcPVhC",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 169968786,
+      "level": 0,
+      "id": 169968786,
       "open_window": 1,
       "visible": 1
     }

@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /docs/关于/语雀示例文章
+      link: /docs/关于/简介
     - theme: alt
       text: GitHub
       link: https://github.com/elog-x/yuque-vitepress
