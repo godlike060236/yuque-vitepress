@@ -16,11 +16,11 @@ hero:
 
 features:
   - icon:
-      src: /image/icon/media.png
+      src: "https://picsur.taikong.co/i/3eeb718a-c5c6-400e-866f-de97db8cd440.jpg"
     title: 多媒体库支持
     details: Plex/Emby均支持，根据个人喜好自动选择；提供FileBall/Yamby等各种第三方客户端；媒体库涵盖电影、剧集、综艺、动漫、音乐...
   - icon: 
-        src: /image/icon/rss.png
+      src: "https://picsur.taikong.co/i/fba18563-48b8-47c9-a391-905da0284fd1.jpg"
     title: 多渠道RSS订阅
     details: BT/PT等多渠道RSS，覆盖99%影视资源。支持自行添加订阅、实时追更、相同媒体多版本资源、特效字幕，充分满足你的需求
 ---
