@@ -41,5 +41,5 @@ features:
   }
 }
 </style>
-
+import { Analytics } from '@vercel/analytics/react';
 <script defer src="/_vercel/insights/script.js"></script>
