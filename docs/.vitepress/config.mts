@@ -12,7 +12,8 @@ export default defineConfig({
   ignoreDeadLinks: true,
   head: [
       ["script", { src: "/_vercel/insights/script.js", defer: true }],
-    ["script", { src: "/_vercel/speed-insights/script.js", defer: true }]
+    ["script", { src: "/_vercel/speed-insights/script.js", defer: true }],
+    ["script", { src: "http://192.9.135.211:3000/script.js", "data-website-id": "96795d58-80f1-4162-99a6-9397c5c472d8", defer: true }]
   ],
   themeConfig: {
     search: {
