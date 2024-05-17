@@ -28,7 +28,6 @@
   "dependencies": {
     "@elog/cli": "^0.13.2",
     "@vercel/analytics": "^1.2.2",
-    "vitepress": "^1.0.0-rc.27",
-    "@astrojs/vercel": "^5.0.1"
+    "vitepress": "^1.0.0-rc.27"
   }
 }
