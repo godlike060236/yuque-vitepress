@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
 import { genYuqueSideBar } from "../../utils/route";
 import { YuQueSVG } from "../../utils/assists";
-import { vercel } from '@astrojs/vercel/serverless';
+import { inject } from '@vercel/analytics';
+inject();
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -37,12 +38,5 @@ export default defineConfig({
       message: 'Powered by <a href="https://www.yuque.com/1874w/yuque-vitepress-template" target="_blank">语雀</a>  & <a href="https://vitepress.dev" target="_blank">VitePress</a> with <a href="https://github.com/LetTTGACO/elog" target="_blank">Elog</a>',
       copyright: 'Copyright © 2024-present'
     },
-  },
-
-  output: 'server',
-  adapter: vercel({
-    webAnalytics: {
-      enabled: true,
-    },
-  }),
+  }
 })
