@@ -10,7 +10,10 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   ignoreDeadLinks: true,
-  head: [["script", { src: "/_vercel/insights/script.js", defer: true },{ src: "/_vercel/insights/script.js", defer: true }]],
+  head: [
+      ["script", { src: "/_vercel/insights/script.js", defer: true }],
+    ["script", { src: "/_vercel/speed-insights/script.js", defer: true }]
+  ],
   themeConfig: {
     search: {
       provider: 'local'
