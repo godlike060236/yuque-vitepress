@@ -13,7 +13,7 @@ export default defineConfig({
   head: [
       ["script", { src: "/_vercel/insights/script.js", defer: true }],
     ["script", { src: "/_vercel/speed-insights/script.js", defer: true }],
-    ["script", { src: "../../utils/umami.js", "data-website-id": "96795d58-80f1-4162-99a6-9397c5c472d8", defer: true }]
+    ["script", { src: "https://umami.taikong.co/script.js", "data-website-id": "1e686a62-745d-48e2-950d-b78e6d7ad542", defer: true }]
   ],
   themeConfig: {
     search: {
