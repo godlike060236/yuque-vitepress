@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 import { genYuqueSideBar } from "../../utils/route";
 import { YuQueSVG } from "../../utils/assists";
-import { inject } from '@vercel/analytics';
+import { inject } from "../../utils/analytics";
 
 inject();
 // https://vitepress.dev/reference/site-config
